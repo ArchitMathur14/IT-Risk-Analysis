@@ -1,0 +1,1001 @@
+timestamp,user_id,department,action_type,system_module,amount,risk_label,engine_flag
+2026-09-24 08:00:00,EMP_012,IT,invoice_creation,IT_Admin_Console,1929.09,Normal,SoD Violation
+2026-09-03 15:17:00,EMP_014,IT,login,HRMS,0.0,Normal,Clear
+2026-09-16 17:07:00,EMP_019,IT,invoice_creation,ERP_Finance,4313.13,Normal,SoD Violation
+2026-09-11 12:29:00,EMP_010,HR,invoice_creation,HRMS,1880.09,Normal,SoD Violation
+2026-09-06 16:45:00,EMP_005,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-06 16:13:00,EMP_009,Finance,invoice_creation,HRMS,4446.08,Normal,SoD Violation
+2026-09-12 13:02:00,EMP_004,IT,payment_approval,IT_Admin_Console,1785.59,Normal,Access Violation
+2026-09-07 09:43:00,EMP_002,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-08 11:20:00,EMP_003,HR,payment_approval,ERP_Finance,2522.46,Normal,Access Violation
+2026-09-10 11:12:00,EMP_017,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-08 08:16:00,EMP_008,IT,payment_approval,ERP_Finance,1560.79,Normal,Access Violation
+2026-09-14 13:25:00,EMP_020,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-05 16:22:00,EMP_009,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-15 12:35:00,EMP_007,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-18 15:11:00,EMP_004,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-19 09:54:00,EMP_007,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-20 16:29:00,EMP_008,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-25 14:11:00,EMP_011,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-16 10:12:00,EMP_006,Procurement,payment_approval,IT_Admin_Console,4327.23,Normal,SoD Violation
+2026-09-23 15:15:00,EMP_007,Procurement,payment_approval,ERP_Finance,3905.99,Normal,SoD Violation
+2026-09-05 17:42:00,EMP_008,IT,login,HRMS,0.0,Normal,Clear
+2026-09-06 13:24:00,EMP_018,IT,invoice_creation,ERP_Finance,4747.66,Normal,SoD Violation
+2026-09-24 12:51:00,EMP_001,Finance,invoice_creation,HRMS,929.68,Normal,SoD Violation
+2026-09-12 13:04:00,EMP_001,Finance,payment_approval,HRMS,2484.84,Normal,SoD Violation
+2026-09-25 08:13:00,EMP_006,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-14 10:57:00,EMP_015,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-26 17:25:00,EMP_017,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-28 09:49:00,EMP_008,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-23 13:17:00,EMP_010,HR,view_record,HRMS,0.0,Normal,Clear
+2026-09-21 08:21:00,EMP_017,Finance,invoice_creation,IT_Admin_Console,3809.58,Normal,SoD Violation
+2026-09-12 09:19:00,EMP_012,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-02 09:30:00,EMP_012,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-20 12:06:00,EMP_015,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-10 16:49:00,EMP_001,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-17 08:19:00,EMP_003,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-28 16:46:00,EMP_020,IT,invoice_creation,ERP_Finance,1292.49,Normal,SoD Violation
+2026-09-28 11:40:00,EMP_002,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-07 15:42:00,EMP_011,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-22 13:49:00,EMP_011,Procurement,payment_approval,HRMS,162.5,Normal,SoD Violation
+2026-09-22 14:44:00,EMP_015,IT,login,HRMS,0.0,Normal,Clear
+2026-09-20 15:31:00,EMP_005,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-21 12:27:00,EMP_011,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-01 15:14:00,EMP_006,Procurement,invoice_creation,HRMS,2858.1,Normal,SoD Violation
+2026-09-13 16:18:00,EMP_010,HR,invoice_creation,IT_Admin_Console,4821.65,Normal,SoD Violation
+2026-09-22 09:44:00,EMP_008,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-10 09:58:00,EMP_014,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-10 14:18:00,EMP_009,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-09 09:45:00,EMP_009,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 14:58:00,EMP_017,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-10 16:40:00,EMP_011,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-10 17:42:00,EMP_018,IT,payment_approval,ERP_Finance,1729.21,Normal,Access Violation
+2026-09-23 12:13:00,EMP_014,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-06 12:25:00,EMP_012,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-17 09:07:00,EMP_008,IT,payment_approval,ERP_Finance,4582.28,Normal,Access Violation
+2026-09-21 13:01:00,EMP_003,HR,login,ERP_Finance,0.0,Normal,Access Violation
+2026-09-21 17:58:00,EMP_002,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-08 16:02:00,EMP_002,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-14 10:36:00,EMP_013,Procurement,invoice_creation,ERP_Finance,4673.84,Normal,SoD Violation
+2026-09-20 12:57:00,EMP_013,Procurement,invoice_creation,HRMS,921.73,Normal,SoD Violation
+2026-09-27 08:05:00,EMP_019,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-14 14:18:00,EMP_003,HR,invoice_creation,IT_Admin_Console,2339.22,Normal,SoD Violation
+2026-09-07 15:45:00,EMP_014,IT,invoice_creation,IT_Admin_Console,3211.51,Normal,SoD Violation
+2026-09-04 10:15:00,EMP_006,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-24 12:16:00,EMP_012,IT,payment_approval,IT_Admin_Console,180.5,Normal,Access Violation
+2026-09-23 14:37:00,EMP_008,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-13 13:32:00,EMP_004,IT,payment_approval,IT_Admin_Console,2221.5,Normal,Access Violation
+2026-09-05 16:05:00,EMP_017,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-12 10:15:00,EMP_016,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-15 13:11:00,EMP_010,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-10 13:26:00,EMP_009,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-17 14:37:00,EMP_004,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-12 08:43:00,EMP_004,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-17 14:51:00,EMP_005,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-19 14:01:00,EMP_014,IT,payment_approval,IT_Admin_Console,2219.1,Normal,Access Violation
+2026-09-06 16:55:00,EMP_004,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-18 09:56:00,EMP_011,Procurement,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-16 13:14:00,EMP_004,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-25 16:56:00,EMP_020,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-14 09:04:00,EMP_016,HR,payment_approval,HRMS,2162.4,Normal,SoD Violation
+2026-09-17 11:21:00,EMP_019,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-18 14:14:00,EMP_014,IT,invoice_creation,IT_Admin_Console,4265.33,Normal,SoD Violation
+2026-09-10 17:42:00,EMP_009,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-24 09:59:00,EMP_014,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-23 10:33:00,EMP_005,Finance,payment_approval,IT_Admin_Console,786.22,Normal,SoD Violation
+2026-09-17 11:45:00,EMP_013,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-07 14:21:00,EMP_014,IT,payment_approval,HRMS,1085.48,Normal,Access Violation
+2026-09-08 15:01:00,EMP_017,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-05 17:46:00,EMP_009,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-13 09:37:00,EMP_020,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-09 14:01:00,EMP_018,IT,payment_approval,IT_Admin_Console,4364.3,Normal,Access Violation
+2026-09-20 13:26:00,EMP_012,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-19 16:29:00,EMP_011,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 14:00:00,EMP_004,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-05 10:02:00,EMP_005,Finance,payment_approval,IT_Admin_Console,2022.21,Normal,SoD Violation
+2026-09-24 13:14:00,EMP_010,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-01 08:22:00,EMP_011,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-06 09:42:00,EMP_012,IT,invoice_creation,HRMS,1673.82,Normal,SoD Violation
+2026-09-17 17:05:00,EMP_010,HR,view_record,HRMS,0.0,Normal,Clear
+2026-09-19 12:32:00,EMP_010,HR,login,HRMS,0.0,Normal,Clear
+2026-09-20 09:00:00,EMP_016,HR,payment_approval,ERP_Finance,2828.07,Normal,Access Violation
+2026-09-25 09:28:00,EMP_013,Procurement,payment_approval,HRMS,816.66,Normal,SoD Violation
+2026-09-12 12:05:00,EMP_011,Procurement,payment_approval,HRMS,4864.05,Normal,SoD Violation
+2026-09-23 13:26:00,EMP_011,Procurement,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 17:38:00,EMP_007,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-25 08:28:00,EMP_006,Procurement,payment_approval,IT_Admin_Console,1013.51,Normal,SoD Violation
+2026-09-14 17:56:00,EMP_007,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-08 11:17:00,EMP_011,Procurement,payment_approval,ERP_Finance,709.88,Normal,SoD Violation
+2026-09-22 08:19:00,EMP_007,Procurement,invoice_creation,ERP_Finance,2729.31,Normal,SoD Violation
+2026-09-20 09:12:00,EMP_002,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-27 09:30:00,EMP_020,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-25 11:41:00,EMP_016,HR,invoice_creation,HRMS,3301.96,Normal,SoD Violation
+2026-09-11 09:48:00,EMP_001,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-21 16:27:00,EMP_002,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-28 08:51:00,EMP_014,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-07 13:26:00,EMP_002,Finance,invoice_creation,HRMS,2725.57,Normal,SoD Violation
+2026-09-22 13:10:00,EMP_014,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-12 09:37:00,EMP_011,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-03 16:48:00,EMP_003,HR,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-02 12:37:00,EMP_011,Procurement,invoice_creation,ERP_Finance,2641.37,Normal,SoD Violation
+2026-09-14 13:25:00,EMP_017,Finance,payment_approval,HRMS,2473.33,Normal,SoD Violation
+2026-09-17 09:33:00,EMP_001,Finance,payment_approval,ERP_Finance,2747.07,Normal,SoD Violation
+2026-09-05 16:49:00,EMP_001,Finance,invoice_creation,IT_Admin_Console,4303.15,Normal,SoD Violation
+2026-09-03 17:12:00,EMP_006,Procurement,payment_approval,ERP_Finance,698.66,Normal,SoD Violation
+2026-09-13 09:07:00,EMP_015,IT,login,HRMS,0.0,Normal,Clear
+2026-09-17 17:58:00,EMP_001,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-24 12:36:00,EMP_016,HR,invoice_creation,HRMS,1178.59,Normal,SoD Violation
+2026-09-10 17:59:00,EMP_003,HR,invoice_creation,HRMS,2478.34,Normal,SoD Violation
+2026-09-23 17:44:00,EMP_014,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-22 11:27:00,EMP_001,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-10 14:51:00,EMP_004,IT,invoice_creation,ERP_Finance,3026.45,Normal,SoD Violation
+2026-09-01 14:40:00,EMP_020,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-07 15:53:00,EMP_004,IT,invoice_creation,IT_Admin_Console,2839.22,Normal,SoD Violation
+2026-09-03 16:41:00,EMP_016,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-27 17:52:00,EMP_004,IT,invoice_creation,ERP_Finance,2784.23,Normal,SoD Violation
+2026-09-03 12:28:00,EMP_002,Finance,payment_approval,HRMS,702.47,Normal,SoD Violation
+2026-09-23 16:14:00,EMP_008,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-05 17:15:00,EMP_009,Finance,invoice_creation,IT_Admin_Console,4717.03,Normal,SoD Violation
+2026-09-09 13:02:00,EMP_009,Finance,payment_approval,ERP_Finance,2850.96,Normal,SoD Violation
+2026-09-16 09:22:00,EMP_013,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-03 13:36:00,EMP_004,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-15 10:56:00,EMP_009,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-08 11:21:00,EMP_020,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-19 11:11:00,EMP_003,HR,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-09 10:21:00,EMP_006,Procurement,invoice_creation,ERP_Finance,2495.81,Normal,SoD Violation
+2026-09-15 14:38:00,EMP_017,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-10 11:50:00,EMP_005,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-27 08:59:00,EMP_004,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-06 09:22:00,EMP_010,HR,login,ERP_Finance,0.0,Normal,Access Violation
+2026-09-22 16:31:00,EMP_017,Finance,payment_approval,IT_Admin_Console,4194.94,Normal,SoD Violation
+2026-09-01 08:59:00,EMP_019,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-15 12:19:00,EMP_012,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-03 17:42:00,EMP_006,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-05 14:33:00,EMP_011,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-20 14:11:00,EMP_020,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-04 08:15:00,EMP_007,Procurement,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-04 16:00:00,EMP_007,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-25 10:12:00,EMP_015,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-15 09:28:00,EMP_007,Procurement,payment_approval,ERP_Finance,4853.76,Normal,SoD Violation
+2026-09-05 12:25:00,EMP_011,Procurement,payment_approval,ERP_Finance,3799.29,Normal,SoD Violation
+2026-09-27 11:18:00,EMP_008,IT,invoice_creation,HRMS,2945.9,Normal,SoD Violation
+2026-09-25 09:55:00,EMP_018,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-05 09:46:00,EMP_005,Finance,invoice_creation,IT_Admin_Console,3053.84,Normal,SoD Violation
+2026-09-09 09:09:00,EMP_009,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-22 15:10:00,EMP_003,HR,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-08 16:56:00,EMP_020,IT,payment_approval,ERP_Finance,3546.76,Normal,Access Violation
+2026-09-18 17:31:00,EMP_006,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-23 08:24:00,EMP_014,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-12 13:56:00,EMP_015,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-15 10:50:00,EMP_001,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 08:41:00,EMP_012,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-15 17:35:00,EMP_019,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-01 10:51:00,EMP_012,IT,invoice_creation,IT_Admin_Console,2781.61,Normal,SoD Violation
+2026-09-22 11:45:00,EMP_020,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-27 09:09:00,EMP_020,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-20 16:14:00,EMP_005,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-22 09:43:00,EMP_001,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-25 13:37:00,EMP_018,IT,payment_approval,IT_Admin_Console,3944.14,Normal,Access Violation
+2026-09-10 11:03:00,EMP_019,IT,login,HRMS,0.0,Normal,Clear
+2026-09-15 14:11:00,EMP_004,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-09 13:57:00,EMP_005,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-12 17:37:00,EMP_018,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-27 13:48:00,EMP_016,HR,payment_approval,ERP_Finance,4245.66,Normal,Access Violation
+2026-09-01 14:26:00,EMP_016,HR,payment_approval,ERP_Finance,517.38,Normal,Access Violation
+2026-09-11 12:15:00,EMP_016,HR,invoice_creation,IT_Admin_Console,4554.14,Normal,SoD Violation
+2026-09-03 15:35:00,EMP_013,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 14:23:00,EMP_010,HR,payment_approval,IT_Admin_Console,4754.06,Normal,SoD Violation
+2026-09-24 14:23:00,EMP_001,Finance,payment_approval,HRMS,1880.96,Normal,SoD Violation
+2026-09-10 11:26:00,EMP_001,Finance,payment_approval,ERP_Finance,591.7,Normal,SoD Violation
+2026-09-10 10:05:00,EMP_020,IT,invoice_creation,HRMS,1682.55,Normal,SoD Violation
+2026-09-04 16:12:00,EMP_003,HR,payment_approval,HRMS,3313.98,Normal,SoD Violation
+2026-09-02 13:40:00,EMP_001,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-02 17:07:00,EMP_013,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-18 17:54:00,EMP_013,Procurement,payment_approval,ERP_Finance,2576.19,Normal,SoD Violation
+2026-09-14 10:37:00,EMP_010,HR,login,ERP_Finance,0.0,Normal,Access Violation
+2026-09-21 14:10:00,EMP_003,HR,invoice_creation,HRMS,4913.27,Normal,SoD Violation
+2026-09-10 12:17:00,EMP_012,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-12 11:03:00,EMP_006,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-03 15:23:00,EMP_012,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-18 14:26:00,EMP_011,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-23 11:35:00,EMP_002,Finance,invoice_creation,IT_Admin_Console,873.61,Normal,SoD Violation
+2026-09-10 12:23:00,EMP_011,Procurement,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-09 17:04:00,EMP_013,Procurement,payment_approval,HRMS,527.35,Normal,SoD Violation
+2026-09-28 17:55:00,EMP_002,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-07 14:36:00,EMP_002,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-05 12:27:00,EMP_009,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 10:32:00,EMP_006,Procurement,invoice_creation,ERP_Finance,4213.39,Normal,SoD Violation
+2026-09-03 11:23:00,EMP_017,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-07 13:53:00,EMP_016,HR,invoice_creation,ERP_Finance,1032.98,Normal,Access Violation
+2026-09-25 11:58:00,EMP_005,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-22 12:13:00,EMP_007,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-09 13:52:00,EMP_004,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-13 16:12:00,EMP_018,IT,login,HRMS,0.0,Normal,Clear
+2026-09-03 12:06:00,EMP_005,Finance,payment_approval,ERP_Finance,2523.86,Normal,SoD Violation
+2026-09-01 17:21:00,EMP_019,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-02 16:43:00,EMP_010,HR,invoice_creation,HRMS,3000.73,Normal,SoD Violation
+2026-09-26 16:59:00,EMP_010,HR,payment_approval,IT_Admin_Console,2310.34,Normal,SoD Violation
+2026-09-03 10:44:00,EMP_003,HR,payment_approval,HRMS,2696.65,Normal,SoD Violation
+2026-09-08 15:05:00,EMP_016,HR,invoice_creation,IT_Admin_Console,4972.64,Normal,SoD Violation
+2026-09-16 08:08:00,EMP_020,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-15 09:37:00,EMP_007,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-24 14:37:00,EMP_001,Finance,invoice_creation,ERP_Finance,490.98,Normal,SoD Violation
+2026-09-15 13:11:00,EMP_002,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-02 11:39:00,EMP_013,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-20 12:54:00,EMP_004,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-06 11:40:00,EMP_019,IT,login,HRMS,0.0,Normal,Clear
+2026-09-07 11:47:00,EMP_012,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-03 10:19:00,EMP_013,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-24 09:30:00,EMP_005,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-14 11:29:00,EMP_001,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-09 14:58:00,EMP_001,Finance,payment_approval,HRMS,284.09,Normal,SoD Violation
+2026-09-24 14:47:00,EMP_016,HR,view_record,HRMS,0.0,Normal,Clear
+2026-09-22 11:56:00,EMP_010,HR,login,HRMS,0.0,Normal,Clear
+2026-09-10 17:43:00,EMP_012,IT,invoice_creation,ERP_Finance,2581.46,Normal,SoD Violation
+2026-09-21 16:52:00,EMP_016,HR,payment_approval,ERP_Finance,4321.32,Normal,Access Violation
+2026-09-24 08:56:00,EMP_020,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-14 10:41:00,EMP_007,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-06 08:39:00,EMP_005,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-10 14:19:00,EMP_004,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-09 13:54:00,EMP_009,Finance,payment_approval,ERP_Finance,4840.8,Normal,SoD Violation
+2026-09-25 17:14:00,EMP_011,Procurement,invoice_creation,ERP_Finance,429.62,Normal,SoD Violation
+2026-09-08 11:52:00,EMP_008,IT,login,HRMS,0.0,Normal,Clear
+2026-09-05 12:22:00,EMP_003,HR,invoice_creation,ERP_Finance,4974.09,Normal,Access Violation
+2026-09-28 15:14:00,EMP_002,Finance,invoice_creation,HRMS,135.88,Normal,SoD Violation
+2026-09-08 16:45:00,EMP_007,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-24 12:53:00,EMP_012,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-17 12:32:00,EMP_011,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-20 16:27:00,EMP_020,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-10 17:56:00,EMP_012,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-07 14:48:00,EMP_013,Procurement,payment_approval,ERP_Finance,436.11,Normal,SoD Violation
+2026-09-22 13:55:00,EMP_006,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-10 09:49:00,EMP_004,IT,login,HRMS,0.0,Normal,Clear
+2026-09-12 10:21:00,EMP_018,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-07 08:56:00,EMP_007,Procurement,payment_approval,IT_Admin_Console,2689.76,Normal,SoD Violation
+2026-09-15 11:02:00,EMP_005,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-25 12:58:00,EMP_002,Finance,payment_approval,IT_Admin_Console,4665.62,Normal,SoD Violation
+2026-09-19 09:29:00,EMP_009,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-25 17:07:00,EMP_005,Finance,payment_approval,ERP_Finance,1812.61,Normal,SoD Violation
+2026-09-11 11:29:00,EMP_004,IT,payment_approval,ERP_Finance,2868.61,Normal,Access Violation
+2026-09-21 11:06:00,EMP_020,IT,payment_approval,ERP_Finance,2180.35,Normal,Access Violation
+2026-09-12 15:27:00,EMP_019,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-08 15:47:00,EMP_014,IT,payment_approval,ERP_Finance,4986.61,Normal,Access Violation
+2026-09-17 12:17:00,EMP_014,IT,invoice_creation,IT_Admin_Console,3366.44,Normal,SoD Violation
+2026-09-21 12:16:00,EMP_017,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 13:34:00,EMP_011,Procurement,invoice_creation,IT_Admin_Console,4222.91,Normal,SoD Violation
+2026-09-22 08:41:00,EMP_007,Procurement,payment_approval,ERP_Finance,993.73,Normal,SoD Violation
+2026-09-11 09:07:00,EMP_006,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 16:19:00,EMP_011,Procurement,invoice_creation,IT_Admin_Console,3138.58,Normal,SoD Violation
+2026-09-23 12:38:00,EMP_010,HR,invoice_creation,ERP_Finance,4383.34,Normal,Access Violation
+2026-09-19 13:04:00,EMP_016,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-21 08:57:00,EMP_017,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-05 16:34:00,EMP_009,Finance,payment_approval,ERP_Finance,843.12,Normal,SoD Violation
+2026-09-23 16:35:00,EMP_003,HR,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-23 15:09:00,EMP_006,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-05 14:23:00,EMP_014,IT,payment_approval,IT_Admin_Console,3844.97,Normal,Access Violation
+2026-09-08 14:57:00,EMP_009,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-02 11:10:00,EMP_020,IT,login,HRMS,0.0,Normal,Clear
+2026-09-15 16:48:00,EMP_008,IT,payment_approval,HRMS,3603.06,Normal,Access Violation
+2026-09-28 14:49:00,EMP_014,IT,payment_approval,HRMS,892.99,Normal,Access Violation
+2026-09-27 13:38:00,EMP_020,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-03 16:46:00,EMP_016,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-15 16:03:00,EMP_002,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 10:32:00,EMP_003,HR,payment_approval,ERP_Finance,1206.74,Normal,Access Violation
+2026-09-13 15:49:00,EMP_009,Finance,payment_approval,HRMS,857.56,Normal,SoD Violation
+2026-09-22 14:46:00,EMP_011,Procurement,payment_approval,ERP_Finance,1993.99,Normal,SoD Violation
+2026-09-26 11:35:00,EMP_006,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-05 09:44:00,EMP_020,IT,invoice_creation,IT_Admin_Console,779.95,Normal,SoD Violation
+2026-09-27 11:29:00,EMP_009,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-14 14:15:00,EMP_017,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-19 13:57:00,EMP_003,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-16 13:28:00,EMP_012,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-20 10:24:00,EMP_010,HR,payment_approval,ERP_Finance,2501.06,Normal,Access Violation
+2026-09-01 16:38:00,EMP_005,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-16 08:08:00,EMP_017,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-20 11:07:00,EMP_006,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-16 15:53:00,EMP_016,HR,invoice_creation,IT_Admin_Console,4917.97,Normal,SoD Violation
+2026-09-12 15:40:00,EMP_009,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-21 16:36:00,EMP_009,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-20 13:17:00,EMP_009,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-12 11:23:00,EMP_005,Finance,invoice_creation,ERP_Finance,2988.53,Normal,SoD Violation
+2026-09-28 12:37:00,EMP_019,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-03 16:19:00,EMP_019,IT,invoice_creation,IT_Admin_Console,4201.94,Normal,SoD Violation
+2026-09-27 09:19:00,EMP_004,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-10 14:07:00,EMP_007,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-18 08:24:00,EMP_011,Procurement,invoice_creation,ERP_Finance,3283.7,Normal,SoD Violation
+2026-09-27 16:06:00,EMP_018,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 14:44:00,EMP_020,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-08 08:57:00,EMP_020,IT,payment_approval,ERP_Finance,3516.47,Normal,Access Violation
+2026-09-13 10:58:00,EMP_006,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-15 16:07:00,EMP_018,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-01 11:01:00,EMP_019,IT,invoice_creation,IT_Admin_Console,3181.83,Normal,SoD Violation
+2026-09-27 15:19:00,EMP_015,IT,invoice_creation,ERP_Finance,2656.81,Normal,SoD Violation
+2026-09-14 12:20:00,EMP_016,HR,invoice_creation,IT_Admin_Console,3828.09,Normal,SoD Violation
+2026-09-13 15:42:00,EMP_009,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-24 14:21:00,EMP_004,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-03 14:53:00,EMP_011,Procurement,invoice_creation,ERP_Finance,558.16,Normal,SoD Violation
+2026-09-13 16:01:00,EMP_014,IT,invoice_creation,HRMS,4082.31,Normal,SoD Violation
+2026-09-21 15:29:00,EMP_016,HR,payment_approval,IT_Admin_Console,4126.1,Normal,SoD Violation
+2026-09-20 12:16:00,EMP_005,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-19 08:20:00,EMP_010,HR,invoice_creation,ERP_Finance,3614.4,Normal,Access Violation
+2026-09-09 16:47:00,EMP_005,Finance,payment_approval,HRMS,1387.97,Normal,SoD Violation
+2026-09-14 11:06:00,EMP_015,IT,invoice_creation,ERP_Finance,1605.22,Normal,SoD Violation
+2026-09-12 17:26:00,EMP_008,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-02 15:19:00,EMP_008,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 11:21:00,EMP_004,IT,payment_approval,IT_Admin_Console,2416.27,Normal,Access Violation
+2026-09-12 16:00:00,EMP_016,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-26 13:21:00,EMP_019,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-21 14:40:00,EMP_006,Procurement,invoice_creation,HRMS,3099.47,Normal,SoD Violation
+2026-09-20 13:33:00,EMP_017,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-22 13:45:00,EMP_007,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-03 09:08:00,EMP_019,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-10 16:15:00,EMP_020,IT,payment_approval,ERP_Finance,4736.26,Normal,Access Violation
+2026-09-23 11:04:00,EMP_012,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-12 11:41:00,EMP_009,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-21 16:23:00,EMP_009,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-21 12:00:00,EMP_017,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-21 10:25:00,EMP_016,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 15:26:00,EMP_005,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-07 17:40:00,EMP_008,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-12 12:26:00,EMP_002,Finance,invoice_creation,IT_Admin_Console,157.6,Normal,SoD Violation
+2026-09-18 09:06:00,EMP_003,HR,payment_approval,ERP_Finance,365.98,Normal,Access Violation
+2026-09-16 09:36:00,EMP_017,Finance,payment_approval,IT_Admin_Console,2503.24,Normal,SoD Violation
+2026-09-09 10:03:00,EMP_017,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-06 09:18:00,EMP_003,HR,payment_approval,IT_Admin_Console,3136.14,Normal,SoD Violation
+2026-09-16 10:57:00,EMP_004,IT,payment_approval,ERP_Finance,4106.9,Normal,Access Violation
+2026-09-21 11:45:00,EMP_018,IT,login,HRMS,0.0,Normal,Clear
+2026-09-27 15:08:00,EMP_004,IT,invoice_creation,ERP_Finance,4315.3,Normal,SoD Violation
+2026-09-16 15:49:00,EMP_010,HR,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-05 10:07:00,EMP_009,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-19 16:51:00,EMP_012,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-22 15:31:00,EMP_017,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-18 08:20:00,EMP_006,Procurement,payment_approval,IT_Admin_Console,4971.26,Normal,SoD Violation
+2026-09-05 13:15:00,EMP_019,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-14 14:50:00,EMP_011,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-03 11:23:00,EMP_012,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-03 11:00:00,EMP_005,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-13 09:05:00,EMP_020,IT,payment_approval,ERP_Finance,2625.55,Normal,Access Violation
+2026-09-03 08:22:00,EMP_017,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-20 09:22:00,EMP_020,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-15 08:05:00,EMP_003,HR,invoice_creation,IT_Admin_Console,3167.4,Normal,SoD Violation
+2026-09-09 15:43:00,EMP_002,Finance,payment_approval,IT_Admin_Console,149.66,Normal,SoD Violation
+2026-09-28 17:45:00,EMP_012,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-05 14:01:00,EMP_007,Procurement,payment_approval,HRMS,4635.85,Normal,SoD Violation
+2026-09-01 11:56:00,EMP_001,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-15 13:17:00,EMP_009,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-14 11:10:00,EMP_008,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 17:29:00,EMP_009,Finance,invoice_creation,HRMS,2707.65,Normal,SoD Violation
+2026-09-13 12:04:00,EMP_014,IT,payment_approval,IT_Admin_Console,4918.18,Normal,Access Violation
+2026-09-04 13:34:00,EMP_018,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-27 11:26:00,EMP_005,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-26 16:21:00,EMP_002,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-21 11:17:00,EMP_016,HR,payment_approval,ERP_Finance,3540.62,Normal,Access Violation
+2026-09-16 12:39:00,EMP_015,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-06 15:20:00,EMP_006,Procurement,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 10:01:00,EMP_001,Finance,payment_approval,ERP_Finance,4754.17,Normal,SoD Violation
+2026-09-20 15:21:00,EMP_007,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-16 14:12:00,EMP_006,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-20 09:52:00,EMP_017,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-05 13:25:00,EMP_007,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-24 16:20:00,EMP_019,IT,invoice_creation,ERP_Finance,4325.12,Normal,SoD Violation
+2026-09-23 16:45:00,EMP_017,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-20 14:38:00,EMP_001,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 16:13:00,EMP_020,IT,invoice_creation,HRMS,3843.26,Normal,SoD Violation
+2026-09-12 10:24:00,EMP_017,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-20 15:12:00,EMP_020,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-11 12:02:00,EMP_016,HR,invoice_creation,IT_Admin_Console,1115.63,Normal,SoD Violation
+2026-09-10 15:23:00,EMP_013,Procurement,invoice_creation,HRMS,379.79,Normal,SoD Violation
+2026-09-11 09:19:00,EMP_001,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-26 17:42:00,EMP_005,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-28 14:56:00,EMP_013,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-09 12:32:00,EMP_005,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-28 16:18:00,EMP_019,IT,invoice_creation,IT_Admin_Console,2014.06,Normal,SoD Violation
+2026-09-07 17:20:00,EMP_017,Finance,invoice_creation,IT_Admin_Console,4185.28,Normal,SoD Violation
+2026-09-19 08:42:00,EMP_015,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-07 15:11:00,EMP_003,HR,view_record,HRMS,0.0,Normal,Clear
+2026-09-20 13:17:00,EMP_005,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-23 10:01:00,EMP_003,HR,invoice_creation,IT_Admin_Console,2910.99,Normal,SoD Violation
+2026-09-15 13:37:00,EMP_003,HR,login,ERP_Finance,0.0,Normal,Access Violation
+2026-09-27 11:41:00,EMP_015,IT,invoice_creation,HRMS,306.53,Normal,SoD Violation
+2026-09-25 15:04:00,EMP_010,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-21 16:05:00,EMP_014,IT,payment_approval,ERP_Finance,1956.82,Normal,Access Violation
+2026-09-24 14:47:00,EMP_020,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-10 13:06:00,EMP_001,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-03 17:28:00,EMP_015,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-21 09:44:00,EMP_014,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 11:08:00,EMP_020,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-03 10:11:00,EMP_014,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-09 15:00:00,EMP_011,Procurement,invoice_creation,HRMS,1217.1,Normal,SoD Violation
+2026-09-19 15:24:00,EMP_001,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-12 11:59:00,EMP_020,IT,invoice_creation,ERP_Finance,556.35,Normal,SoD Violation
+2026-09-19 15:11:00,EMP_019,IT,payment_approval,ERP_Finance,4241.95,Normal,Access Violation
+2026-09-09 15:24:00,EMP_020,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-28 09:47:00,EMP_017,Finance,invoice_creation,ERP_Finance,1408.17,Normal,SoD Violation
+2026-09-10 09:53:00,EMP_004,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-02 16:54:00,EMP_013,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-01 08:33:00,EMP_002,Finance,invoice_creation,HRMS,1056.28,Normal,SoD Violation
+2026-09-23 16:27:00,EMP_015,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 13:09:00,EMP_020,IT,invoice_creation,IT_Admin_Console,103.14,Normal,SoD Violation
+2026-09-18 13:25:00,EMP_020,IT,payment_approval,ERP_Finance,2052.68,Normal,Access Violation
+2026-09-19 17:25:00,EMP_011,Procurement,payment_approval,IT_Admin_Console,1017.53,Normal,SoD Violation
+2026-09-17 14:09:00,EMP_001,Finance,invoice_creation,HRMS,4633.03,Normal,SoD Violation
+2026-09-21 12:47:00,EMP_020,IT,payment_approval,HRMS,4307.09,Normal,Access Violation
+2026-09-04 10:11:00,EMP_012,IT,invoice_creation,IT_Admin_Console,3451.11,Normal,SoD Violation
+2026-09-24 11:19:00,EMP_020,IT,invoice_creation,HRMS,2628.88,Normal,SoD Violation
+2026-09-15 10:13:00,EMP_008,IT,payment_approval,IT_Admin_Console,2510.43,Normal,Access Violation
+2026-09-20 08:16:00,EMP_006,Procurement,invoice_creation,IT_Admin_Console,915.8,Normal,SoD Violation
+2026-09-14 09:26:00,EMP_009,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-16 11:36:00,EMP_009,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-14 17:43:00,EMP_002,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-09 11:19:00,EMP_020,IT,login,HRMS,0.0,Normal,Clear
+2026-09-03 11:06:00,EMP_014,IT,payment_approval,IT_Admin_Console,278.88,Normal,Access Violation
+2026-09-09 12:14:00,EMP_008,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-20 13:46:00,EMP_016,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-02 15:40:00,EMP_002,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-20 16:24:00,EMP_002,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-27 17:18:00,EMP_005,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-06 11:57:00,EMP_009,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-20 17:11:00,EMP_004,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-22 10:50:00,EMP_019,IT,invoice_creation,HRMS,827.49,Normal,SoD Violation
+2026-09-13 14:37:00,EMP_002,Finance,invoice_creation,HRMS,2393.08,Normal,SoD Violation
+2026-09-19 09:24:00,EMP_004,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-26 14:22:00,EMP_020,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 11:52:00,EMP_016,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-06 16:12:00,EMP_008,IT,login,HRMS,0.0,Normal,Clear
+2026-09-12 08:00:00,EMP_011,Procurement,invoice_creation,HRMS,1297.58,Normal,SoD Violation
+2026-09-21 08:12:00,EMP_020,IT,login,HRMS,0.0,Normal,Clear
+2026-09-10 11:54:00,EMP_010,HR,invoice_creation,IT_Admin_Console,578.46,Normal,SoD Violation
+2026-09-17 09:45:00,EMP_008,IT,payment_approval,IT_Admin_Console,2814.06,Normal,Access Violation
+2026-09-28 16:54:00,EMP_018,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-02 08:19:00,EMP_008,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-24 16:04:00,EMP_002,Finance,invoice_creation,ERP_Finance,1052.17,Normal,SoD Violation
+2026-09-10 09:25:00,EMP_020,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-25 10:11:00,EMP_003,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-16 09:07:00,EMP_016,HR,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-08 14:50:00,EMP_003,HR,payment_approval,HRMS,1836.36,Normal,SoD Violation
+2026-09-03 17:02:00,EMP_001,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-02 08:20:00,EMP_006,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-17 16:41:00,EMP_011,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-27 08:55:00,EMP_003,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-23 17:29:00,EMP_008,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-21 12:11:00,EMP_019,IT,invoice_creation,IT_Admin_Console,3009.45,Normal,SoD Violation
+2026-09-04 11:49:00,EMP_004,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-22 10:41:00,EMP_020,IT,payment_approval,IT_Admin_Console,2693.54,Normal,Access Violation
+2026-09-19 11:21:00,EMP_005,Finance,payment_approval,HRMS,1021.2,Normal,SoD Violation
+2026-09-05 11:59:00,EMP_001,Finance,invoice_creation,IT_Admin_Console,167.48,Normal,SoD Violation
+2026-09-11 12:03:00,EMP_017,Finance,invoice_creation,IT_Admin_Console,1718.64,Normal,SoD Violation
+2026-09-24 13:32:00,EMP_009,Finance,invoice_creation,HRMS,846.91,Normal,SoD Violation
+2026-09-22 13:02:00,EMP_006,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-07 14:44:00,EMP_019,IT,payment_approval,IT_Admin_Console,2612.4,Normal,Access Violation
+2026-09-12 17:08:00,EMP_010,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-25 08:08:00,EMP_014,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-16 14:26:00,EMP_009,Finance,payment_approval,ERP_Finance,3874.68,Normal,SoD Violation
+2026-09-25 08:11:00,EMP_017,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-16 08:57:00,EMP_003,HR,payment_approval,IT_Admin_Console,2931.29,Normal,SoD Violation
+2026-09-09 10:51:00,EMP_007,Procurement,payment_approval,HRMS,1689.05,Normal,SoD Violation
+2026-09-11 16:08:00,EMP_016,HR,payment_approval,IT_Admin_Console,1304.26,Normal,SoD Violation
+2026-09-18 09:54:00,EMP_013,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-20 12:13:00,EMP_009,Finance,payment_approval,ERP_Finance,1549.32,Normal,SoD Violation
+2026-09-19 16:33:00,EMP_020,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-01 08:08:00,EMP_012,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-15 10:39:00,EMP_014,IT,payment_approval,HRMS,3040.1,Normal,Access Violation
+2026-09-23 14:05:00,EMP_001,Finance,payment_approval,IT_Admin_Console,423.37,Normal,SoD Violation
+2026-09-27 14:54:00,EMP_012,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-09 14:29:00,EMP_018,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-21 08:30:00,EMP_020,IT,invoice_creation,ERP_Finance,3222.35,Normal,SoD Violation
+2026-09-08 15:44:00,EMP_013,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-20 10:09:00,EMP_008,IT,invoice_creation,IT_Admin_Console,1056.97,Normal,SoD Violation
+2026-09-17 12:06:00,EMP_008,IT,payment_approval,ERP_Finance,4876.96,Normal,Access Violation
+2026-09-14 09:50:00,EMP_018,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-19 15:11:00,EMP_016,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-22 09:32:00,EMP_002,Finance,invoice_creation,HRMS,4765.3,Normal,SoD Violation
+2026-09-19 13:38:00,EMP_017,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-17 10:59:00,EMP_001,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-13 09:19:00,EMP_001,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 12:56:00,EMP_005,Finance,payment_approval,IT_Admin_Console,2928.8,Normal,SoD Violation
+2026-09-10 11:31:00,EMP_018,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-14 15:34:00,EMP_016,HR,login,ERP_Finance,0.0,Normal,Access Violation
+2026-09-21 15:48:00,EMP_012,IT,payment_approval,ERP_Finance,1902.86,Normal,Access Violation
+2026-09-23 08:09:00,EMP_013,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-20 11:05:00,EMP_010,HR,view_record,HRMS,0.0,Normal,Clear
+2026-09-16 08:15:00,EMP_008,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 16:16:00,EMP_008,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 11:53:00,EMP_006,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-14 09:55:00,EMP_005,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-01 15:14:00,EMP_016,HR,login,ERP_Finance,0.0,Normal,Access Violation
+2026-09-22 17:59:00,EMP_013,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-06 15:50:00,EMP_001,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-19 11:01:00,EMP_009,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 12:05:00,EMP_016,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-24 13:18:00,EMP_015,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-27 13:27:00,EMP_016,HR,payment_approval,IT_Admin_Console,3800.09,Normal,SoD Violation
+2026-09-02 16:53:00,EMP_008,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-14 09:51:00,EMP_019,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 12:51:00,EMP_003,HR,login,ERP_Finance,0.0,Normal,Access Violation
+2026-09-03 08:48:00,EMP_001,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-25 13:37:00,EMP_008,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-24 15:07:00,EMP_003,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 16:25:00,EMP_012,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-24 13:53:00,EMP_010,HR,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-08 11:16:00,EMP_013,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-07 15:14:00,EMP_016,HR,invoice_creation,IT_Admin_Console,3550.79,Normal,SoD Violation
+2026-09-15 12:25:00,EMP_016,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-16 17:54:00,EMP_013,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-27 17:50:00,EMP_019,IT,invoice_creation,HRMS,4342.75,Normal,SoD Violation
+2026-09-03 10:20:00,EMP_012,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-27 16:09:00,EMP_015,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-18 16:00:00,EMP_011,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-23 08:40:00,EMP_018,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-16 12:50:00,EMP_001,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-25 12:53:00,EMP_006,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-17 10:14:00,EMP_002,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-09 12:41:00,EMP_011,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-12 15:52:00,EMP_018,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-24 14:43:00,EMP_009,Finance,payment_approval,ERP_Finance,1076.67,Normal,SoD Violation
+2026-09-14 13:14:00,EMP_001,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-09 10:00:00,EMP_013,Procurement,payment_approval,ERP_Finance,1662.85,Normal,SoD Violation
+2026-09-07 14:25:00,EMP_010,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-05 11:23:00,EMP_019,IT,payment_approval,IT_Admin_Console,427.76,Normal,Access Violation
+2026-09-09 13:07:00,EMP_015,IT,invoice_creation,ERP_Finance,104.85,Normal,SoD Violation
+2026-09-08 08:41:00,EMP_005,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-23 09:58:00,EMP_007,Procurement,payment_approval,HRMS,644.56,Normal,SoD Violation
+2026-09-22 09:33:00,EMP_017,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-16 15:37:00,EMP_006,Procurement,invoice_creation,ERP_Finance,1499.89,Normal,SoD Violation
+2026-09-06 11:16:00,EMP_006,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-13 14:49:00,EMP_007,Procurement,payment_approval,IT_Admin_Console,433.21,Normal,SoD Violation
+2026-09-28 14:02:00,EMP_006,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-20 14:47:00,EMP_015,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-20 10:12:00,EMP_007,Procurement,payment_approval,HRMS,2713.84,Normal,SoD Violation
+2026-09-02 15:20:00,EMP_008,IT,payment_approval,HRMS,3726.65,Normal,Access Violation
+2026-09-11 08:33:00,EMP_012,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-01 14:56:00,EMP_005,Finance,invoice_creation,ERP_Finance,2623.25,Normal,SoD Violation
+2026-09-07 08:51:00,EMP_018,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-28 14:49:00,EMP_002,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-28 15:19:00,EMP_014,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 09:26:00,EMP_002,Finance,invoice_creation,ERP_Finance,591.19,Normal,SoD Violation
+2026-09-16 09:04:00,EMP_013,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-08 12:42:00,EMP_002,Finance,payment_approval,IT_Admin_Console,4923.1,Normal,SoD Violation
+2026-09-18 15:58:00,EMP_014,IT,payment_approval,HRMS,197.03,Normal,Access Violation
+2026-09-23 13:16:00,EMP_017,Finance,payment_approval,IT_Admin_Console,4514.4,Normal,SoD Violation
+2026-09-12 09:51:00,EMP_015,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-18 12:18:00,EMP_007,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-14 08:43:00,EMP_011,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-03 09:27:00,EMP_020,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 13:38:00,EMP_010,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-23 10:55:00,EMP_016,HR,invoice_creation,HRMS,4484.38,Normal,SoD Violation
+2026-09-23 08:03:00,EMP_005,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-02 14:26:00,EMP_007,Procurement,payment_approval,IT_Admin_Console,651.51,Normal,SoD Violation
+2026-09-04 13:29:00,EMP_012,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-16 16:07:00,EMP_013,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-15 08:23:00,EMP_006,Procurement,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-27 11:30:00,EMP_011,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-12 16:31:00,EMP_013,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-23 10:06:00,EMP_001,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-19 15:20:00,EMP_004,IT,payment_approval,HRMS,256.2,Normal,Access Violation
+2026-09-19 11:13:00,EMP_010,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-23 11:22:00,EMP_012,IT,invoice_creation,ERP_Finance,1506.21,Normal,SoD Violation
+2026-09-06 15:55:00,EMP_007,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-15 16:38:00,EMP_002,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-02 10:55:00,EMP_009,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-23 17:25:00,EMP_003,HR,payment_approval,IT_Admin_Console,4772.51,Normal,SoD Violation
+2026-09-26 16:31:00,EMP_016,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-15 09:52:00,EMP_012,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-17 14:01:00,EMP_020,IT,payment_approval,IT_Admin_Console,529.85,Normal,Access Violation
+2026-09-27 15:41:00,EMP_001,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-23 08:50:00,EMP_011,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-17 17:12:00,EMP_003,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-02 17:21:00,EMP_013,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 11:56:00,EMP_008,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-22 13:14:00,EMP_013,Procurement,payment_approval,HRMS,370.13,Normal,SoD Violation
+2026-09-16 12:53:00,EMP_001,Finance,invoice_creation,HRMS,1150.37,Normal,SoD Violation
+2026-09-08 09:11:00,EMP_012,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-14 08:24:00,EMP_002,Finance,invoice_creation,HRMS,3734.71,Normal,SoD Violation
+2026-09-12 09:18:00,EMP_001,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-02 08:34:00,EMP_012,IT,login,HRMS,0.0,Normal,Clear
+2026-09-18 15:46:00,EMP_011,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-02 08:17:00,EMP_011,Procurement,payment_approval,ERP_Finance,1542.51,Normal,SoD Violation
+2026-09-04 17:26:00,EMP_020,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-18 11:57:00,EMP_003,HR,invoice_creation,HRMS,3446.51,Normal,SoD Violation
+2026-09-28 08:28:00,EMP_019,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-09 09:52:00,EMP_010,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-22 14:24:00,EMP_003,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-15 13:34:00,EMP_012,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 08:38:00,EMP_017,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-05 15:08:00,EMP_018,IT,login,HRMS,0.0,Normal,Clear
+2026-09-15 10:12:00,EMP_007,Procurement,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-10 15:23:00,EMP_013,Procurement,payment_approval,ERP_Finance,4970.1,Normal,SoD Violation
+2026-09-03 14:21:00,EMP_012,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-12 11:39:00,EMP_019,IT,payment_approval,HRMS,1620.37,Normal,Access Violation
+2026-09-16 12:49:00,EMP_009,Finance,payment_approval,ERP_Finance,1601.08,Normal,SoD Violation
+2026-09-20 08:41:00,EMP_001,Finance,payment_approval,HRMS,3654.78,Normal,SoD Violation
+2026-09-04 08:39:00,EMP_012,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-20 17:44:00,EMP_010,HR,payment_approval,IT_Admin_Console,216.83,Normal,SoD Violation
+2026-09-25 16:17:00,EMP_002,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-04 08:33:00,EMP_001,Finance,invoice_creation,HRMS,579.34,Normal,SoD Violation
+2026-09-23 09:30:00,EMP_020,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-28 13:26:00,EMP_018,IT,payment_approval,IT_Admin_Console,3826.47,Normal,Access Violation
+2026-09-19 17:57:00,EMP_017,Finance,payment_approval,HRMS,3512.85,Normal,SoD Violation
+2026-09-01 13:29:00,EMP_017,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-28 13:02:00,EMP_019,IT,invoice_creation,HRMS,1773.98,Normal,SoD Violation
+2026-09-19 09:47:00,EMP_003,HR,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-03 15:35:00,EMP_014,IT,invoice_creation,IT_Admin_Console,1263.42,Normal,SoD Violation
+2026-09-13 13:52:00,EMP_002,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-07 10:43:00,EMP_013,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-09 12:02:00,EMP_009,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-15 15:22:00,EMP_003,HR,invoice_creation,HRMS,355.04,Normal,SoD Violation
+2026-09-15 15:56:00,EMP_008,IT,invoice_creation,HRMS,4959.49,Normal,SoD Violation
+2026-09-16 08:34:00,EMP_002,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-10 12:27:00,EMP_005,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-07 17:09:00,EMP_011,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-23 11:03:00,EMP_014,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-17 10:47:00,EMP_011,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-23 12:47:00,EMP_016,HR,login,ERP_Finance,0.0,Normal,Access Violation
+2026-09-02 12:33:00,EMP_017,Finance,payment_approval,IT_Admin_Console,1563.64,Normal,SoD Violation
+2026-09-11 12:33:00,EMP_010,HR,payment_approval,ERP_Finance,4827.76,Normal,Access Violation
+2026-09-09 08:04:00,EMP_010,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-18 15:24:00,EMP_019,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 15:14:00,EMP_004,IT,payment_approval,ERP_Finance,424.31,Normal,Access Violation
+2026-09-23 16:13:00,EMP_018,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-19 15:53:00,EMP_010,HR,invoice_creation,ERP_Finance,1876.59,Normal,Access Violation
+2026-09-23 14:47:00,EMP_006,Procurement,invoice_creation,HRMS,3042.53,Normal,SoD Violation
+2026-09-10 11:01:00,EMP_010,HR,payment_approval,ERP_Finance,3447.94,Normal,Access Violation
+2026-09-19 17:24:00,EMP_006,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-04 17:53:00,EMP_009,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 11:32:00,EMP_020,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-28 08:38:00,EMP_018,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-06 08:02:00,EMP_011,Procurement,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-22 12:26:00,EMP_020,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-05 11:28:00,EMP_019,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-10 13:52:00,EMP_001,Finance,payment_approval,IT_Admin_Console,2090.9,Normal,SoD Violation
+2026-09-04 09:17:00,EMP_002,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-10 16:14:00,EMP_003,HR,invoice_creation,HRMS,457.65,Normal,SoD Violation
+2026-09-04 13:01:00,EMP_017,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-26 11:37:00,EMP_015,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-02 11:31:00,EMP_004,IT,login,HRMS,0.0,Normal,Clear
+2026-09-18 14:44:00,EMP_003,HR,payment_approval,IT_Admin_Console,1517.82,Normal,SoD Violation
+2026-09-24 11:14:00,EMP_014,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-09 08:12:00,EMP_003,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-23 11:11:00,EMP_014,IT,invoice_creation,IT_Admin_Console,3147.66,Normal,SoD Violation
+2026-09-27 14:14:00,EMP_001,Finance,payment_approval,HRMS,1704.09,Normal,SoD Violation
+2026-09-04 15:48:00,EMP_016,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-10 13:53:00,EMP_003,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-01 10:29:00,EMP_016,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 09:59:00,EMP_019,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-22 14:27:00,EMP_005,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 16:58:00,EMP_014,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-08 15:53:00,EMP_009,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-24 09:22:00,EMP_007,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-11 08:59:00,EMP_019,IT,payment_approval,HRMS,2754.5,Normal,Access Violation
+2026-09-17 17:48:00,EMP_020,IT,login,HRMS,0.0,Normal,Clear
+2026-09-11 08:30:00,EMP_006,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-24 12:51:00,EMP_014,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-27 12:43:00,EMP_009,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-05 08:40:00,EMP_015,IT,login,HRMS,0.0,Normal,Clear
+2026-09-20 14:34:00,EMP_006,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-09 11:00:00,EMP_008,IT,login,HRMS,0.0,Normal,Clear
+2026-09-08 10:08:00,EMP_004,IT,invoice_creation,IT_Admin_Console,2564.8,Normal,SoD Violation
+2026-09-19 16:09:00,EMP_001,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-18 12:08:00,EMP_018,IT,payment_approval,HRMS,126.73,Normal,Access Violation
+2026-09-20 11:29:00,EMP_012,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 12:51:00,EMP_012,IT,invoice_creation,IT_Admin_Console,2539.6,Normal,SoD Violation
+2026-09-05 16:04:00,EMP_008,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-21 10:53:00,EMP_019,IT,invoice_creation,IT_Admin_Console,3976.32,Normal,SoD Violation
+2026-09-26 14:50:00,EMP_005,Finance,payment_approval,HRMS,869.66,Normal,SoD Violation
+2026-09-08 15:07:00,EMP_019,IT,payment_approval,HRMS,1259.99,Normal,Access Violation
+2026-09-17 13:17:00,EMP_012,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-03 14:21:00,EMP_013,Procurement,invoice_creation,IT_Admin_Console,1394.3,Normal,SoD Violation
+2026-09-02 13:38:00,EMP_013,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-18 16:58:00,EMP_006,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-20 16:45:00,EMP_002,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-09 11:33:00,EMP_014,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-04 12:21:00,EMP_014,IT,payment_approval,ERP_Finance,2695.95,Normal,Access Violation
+2026-09-22 13:22:00,EMP_007,Procurement,payment_approval,IT_Admin_Console,4222.94,Normal,SoD Violation
+2026-09-05 09:09:00,EMP_020,IT,invoice_creation,ERP_Finance,4434.72,Normal,SoD Violation
+2026-09-13 16:08:00,EMP_018,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-13 12:53:00,EMP_003,HR,login,ERP_Finance,0.0,Normal,Access Violation
+2026-09-26 12:56:00,EMP_020,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-17 16:38:00,EMP_003,HR,payment_approval,ERP_Finance,4729.03,Normal,Access Violation
+2026-09-24 13:47:00,EMP_004,IT,invoice_creation,ERP_Finance,1011.75,Normal,SoD Violation
+2026-09-09 16:54:00,EMP_005,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-06 09:07:00,EMP_018,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-18 10:20:00,EMP_011,Procurement,payment_approval,HRMS,3581.4,Normal,SoD Violation
+2026-09-17 08:37:00,EMP_002,Finance,payment_approval,HRMS,3015.02,Normal,SoD Violation
+2026-09-25 12:35:00,EMP_002,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-04 15:25:00,EMP_020,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-23 14:16:00,EMP_003,HR,payment_approval,HRMS,415.46,Normal,SoD Violation
+2026-09-11 08:51:00,EMP_020,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-15 09:30:00,EMP_017,Finance,payment_approval,ERP_Finance,1182.88,Normal,SoD Violation
+2026-09-17 17:45:00,EMP_010,HR,login,HRMS,0.0,Normal,Clear
+2026-09-01 16:55:00,EMP_009,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-25 16:02:00,EMP_013,Procurement,invoice_creation,HRMS,3993.3,Normal,SoD Violation
+2026-09-20 08:18:00,EMP_006,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-11 11:07:00,EMP_019,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-06 09:13:00,EMP_017,Finance,invoice_creation,ERP_Finance,2121.64,Normal,SoD Violation
+2026-09-15 13:57:00,EMP_002,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-07 10:06:00,EMP_014,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-26 11:47:00,EMP_012,IT,payment_approval,HRMS,1041.46,Normal,Access Violation
+2026-09-18 10:36:00,EMP_003,HR,login,HRMS,0.0,Normal,Clear
+2026-09-02 16:36:00,EMP_005,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-12 11:54:00,EMP_003,HR,view_record,HRMS,0.0,Normal,Clear
+2026-09-24 15:48:00,EMP_004,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-17 14:01:00,EMP_006,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-02 09:31:00,EMP_014,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-02 10:27:00,EMP_001,Finance,invoice_creation,IT_Admin_Console,2380.96,Normal,SoD Violation
+2026-09-27 15:43:00,EMP_011,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-17 13:22:00,EMP_014,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-18 15:11:00,EMP_013,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-28 11:11:00,EMP_004,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-06 14:05:00,EMP_010,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-25 10:33:00,EMP_005,Finance,invoice_creation,HRMS,2534.65,Normal,SoD Violation
+2026-09-27 17:40:00,EMP_008,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-02 17:07:00,EMP_018,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-05 08:36:00,EMP_014,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-17 13:47:00,EMP_016,HR,view_record,HRMS,0.0,Normal,Clear
+2026-09-02 14:15:00,EMP_015,IT,payment_approval,HRMS,3773.08,Normal,Access Violation
+2026-09-24 15:25:00,EMP_014,IT,login,HRMS,0.0,Normal,Clear
+2026-09-12 08:39:00,EMP_018,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-22 15:52:00,EMP_006,Procurement,payment_approval,ERP_Finance,2601.73,Normal,SoD Violation
+2026-09-24 17:09:00,EMP_012,IT,invoice_creation,HRMS,1551.96,Normal,SoD Violation
+2026-09-01 17:45:00,EMP_004,IT,payment_approval,IT_Admin_Console,4439.66,Normal,Access Violation
+2026-09-18 11:57:00,EMP_006,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-22 15:44:00,EMP_004,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-04 12:21:00,EMP_007,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-14 12:57:00,EMP_017,Finance,payment_approval,HRMS,2437.73,Normal,SoD Violation
+2026-09-15 10:48:00,EMP_016,HR,login,HRMS,0.0,Normal,Clear
+2026-09-09 16:59:00,EMP_009,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-03 12:05:00,EMP_005,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-22 14:34:00,EMP_011,Procurement,payment_approval,IT_Admin_Console,3317.51,Normal,SoD Violation
+2026-09-20 11:00:00,EMP_013,Procurement,invoice_creation,IT_Admin_Console,3790.46,Normal,SoD Violation
+2026-09-20 15:22:00,EMP_019,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-17 10:26:00,EMP_017,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-20 11:39:00,EMP_004,IT,payment_approval,ERP_Finance,864.94,Normal,Access Violation
+2026-09-14 12:13:00,EMP_015,IT,payment_approval,HRMS,367.69,Normal,Access Violation
+2026-09-11 17:22:00,EMP_001,Finance,payment_approval,IT_Admin_Console,856.21,Normal,SoD Violation
+2026-09-14 12:27:00,EMP_014,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-13 11:57:00,EMP_011,Procurement,invoice_creation,ERP_Finance,4111.58,Normal,SoD Violation
+2026-09-09 08:50:00,EMP_009,Finance,payment_approval,HRMS,4387.44,Normal,SoD Violation
+2026-09-08 10:59:00,EMP_010,HR,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-09 11:37:00,EMP_004,IT,payment_approval,HRMS,2360.63,Normal,Access Violation
+2026-09-28 15:33:00,EMP_015,IT,invoice_creation,ERP_Finance,744.72,Normal,SoD Violation
+2026-09-11 11:42:00,EMP_019,IT,login,HRMS,0.0,Normal,Clear
+2026-09-17 12:01:00,EMP_008,IT,payment_approval,ERP_Finance,2979.53,Normal,Access Violation
+2026-09-09 09:09:00,EMP_003,HR,invoice_creation,IT_Admin_Console,2237.67,Normal,SoD Violation
+2026-09-10 17:41:00,EMP_010,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-14 08:19:00,EMP_019,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-06 16:48:00,EMP_005,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-03 17:48:00,EMP_006,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-08 13:48:00,EMP_018,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-20 16:05:00,EMP_006,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-25 15:13:00,EMP_002,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-11 15:34:00,EMP_001,Finance,invoice_creation,HRMS,717.3,Normal,SoD Violation
+2026-09-12 09:21:00,EMP_006,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-09 16:05:00,EMP_014,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-05 12:38:00,EMP_019,IT,invoice_creation,HRMS,2038.89,Normal,SoD Violation
+2026-09-28 15:29:00,EMP_009,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-22 16:02:00,EMP_019,IT,invoice_creation,ERP_Finance,895.39,Normal,SoD Violation
+2026-09-17 10:39:00,EMP_001,Finance,invoice_creation,ERP_Finance,3144.33,Normal,SoD Violation
+2026-09-24 16:24:00,EMP_013,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-04 11:08:00,EMP_017,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-02 14:21:00,EMP_010,HR,login,HRMS,0.0,Normal,Clear
+2026-09-04 14:46:00,EMP_006,Procurement,payment_approval,ERP_Finance,4487.6,Normal,SoD Violation
+2026-09-02 08:33:00,EMP_011,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-04 10:18:00,EMP_019,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-25 11:13:00,EMP_016,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-15 14:46:00,EMP_005,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-15 11:19:00,EMP_002,Finance,invoice_creation,ERP_Finance,4520.49,Normal,SoD Violation
+2026-09-27 15:02:00,EMP_011,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-22 11:58:00,EMP_011,Procurement,payment_approval,ERP_Finance,3622.57,Normal,SoD Violation
+2026-09-19 13:46:00,EMP_009,Finance,payment_approval,ERP_Finance,1760.06,Normal,SoD Violation
+2026-09-14 17:26:00,EMP_012,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-25 12:48:00,EMP_011,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-07 12:17:00,EMP_006,Procurement,invoice_creation,HRMS,3745.94,Normal,SoD Violation
+2026-09-02 09:05:00,EMP_001,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-26 10:11:00,EMP_007,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-13 15:09:00,EMP_006,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-17 13:34:00,EMP_003,HR,payment_approval,ERP_Finance,2318.08,Normal,Access Violation
+2026-09-18 17:16:00,EMP_018,IT,payment_approval,IT_Admin_Console,3674.96,Normal,Access Violation
+2026-09-06 10:41:00,EMP_016,HR,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-01 12:06:00,EMP_015,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-19 11:31:00,EMP_014,IT,invoice_creation,IT_Admin_Console,4383.79,Normal,SoD Violation
+2026-09-19 12:10:00,EMP_007,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-14 10:14:00,EMP_011,Procurement,payment_approval,IT_Admin_Console,4427.2,Normal,SoD Violation
+2026-09-15 12:59:00,EMP_007,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-01 10:52:00,EMP_006,Procurement,login,ERP_Finance,0.0,Normal,Clear
+2026-09-03 09:19:00,EMP_003,HR,view_record,HRMS,0.0,Normal,Clear
+2026-09-06 11:22:00,EMP_012,IT,login,HRMS,0.0,Normal,Clear
+2026-09-14 16:29:00,EMP_005,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-21 17:22:00,EMP_004,IT,payment_approval,ERP_Finance,723.15,Normal,Access Violation
+2026-09-12 09:07:00,EMP_018,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-23 12:41:00,EMP_004,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-06 11:37:00,EMP_011,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-05 08:19:00,EMP_014,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-14 09:12:00,EMP_015,IT,invoice_creation,IT_Admin_Console,3440.49,Normal,SoD Violation
+2026-09-11 09:19:00,EMP_015,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-01 14:09:00,EMP_007,Procurement,invoice_creation,IT_Admin_Console,1304.33,Normal,SoD Violation
+2026-09-20 08:37:00,EMP_014,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-12 10:36:00,EMP_012,IT,payment_approval,HRMS,1477.58,Normal,Access Violation
+2026-09-09 12:31:00,EMP_020,IT,payment_approval,IT_Admin_Console,399.19,Normal,Access Violation
+2026-09-12 09:34:00,EMP_013,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-09 09:02:00,EMP_014,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-09 15:52:00,EMP_007,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-17 12:49:00,EMP_002,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-14 13:53:00,EMP_002,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-15 09:27:00,EMP_009,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-22 13:36:00,EMP_019,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 17:18:00,EMP_018,IT,invoice_creation,IT_Admin_Console,1947.92,Normal,SoD Violation
+2026-09-02 10:01:00,EMP_012,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 17:22:00,EMP_011,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-08 15:42:00,EMP_019,IT,invoice_creation,HRMS,475.6,Normal,SoD Violation
+2026-09-26 10:18:00,EMP_014,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-10 16:53:00,EMP_014,IT,invoice_creation,ERP_Finance,3816.83,Normal,SoD Violation
+2026-09-21 10:31:00,EMP_009,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-23 15:30:00,EMP_016,HR,login,HRMS,0.0,Normal,Clear
+2026-09-24 12:01:00,EMP_009,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-02 15:17:00,EMP_012,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-20 15:31:00,EMP_013,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-14 11:43:00,EMP_019,IT,payment_approval,ERP_Finance,2932.61,Normal,Access Violation
+2026-09-10 14:46:00,EMP_017,Finance,invoice_creation,IT_Admin_Console,4472.06,Normal,SoD Violation
+2026-09-08 13:02:00,EMP_019,IT,payment_approval,IT_Admin_Console,4147.93,Normal,Access Violation
+2026-09-03 14:24:00,EMP_001,Finance,invoice_creation,IT_Admin_Console,4453.02,Normal,SoD Violation
+2026-09-14 11:30:00,EMP_002,Finance,payment_approval,ERP_Finance,2270.43,Normal,SoD Violation
+2026-09-20 09:41:00,EMP_007,Procurement,payment_approval,HRMS,3479.84,Normal,SoD Violation
+2026-09-16 09:57:00,EMP_011,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-22 15:58:00,EMP_004,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-05 12:18:00,EMP_006,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-27 15:14:00,EMP_011,Procurement,invoice_creation,IT_Admin_Console,3329.58,Normal,SoD Violation
+2026-09-28 13:14:00,EMP_004,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-02 10:38:00,EMP_013,Procurement,data_export,HRMS,0.0,Normal,Clear
+2026-09-03 08:03:00,EMP_019,IT,invoice_creation,HRMS,2373.09,Normal,SoD Violation
+2026-09-25 13:47:00,EMP_014,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-20 08:22:00,EMP_020,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-06 15:42:00,EMP_015,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-01 10:51:00,EMP_019,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-04 10:22:00,EMP_015,IT,login,HRMS,0.0,Normal,Clear
+2026-09-02 17:01:00,EMP_019,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-27 15:07:00,EMP_010,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-15 08:31:00,EMP_017,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-18 14:41:00,EMP_002,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-27 17:34:00,EMP_009,Finance,invoice_creation,HRMS,4985.92,Normal,SoD Violation
+2026-09-16 12:26:00,EMP_013,Procurement,invoice_creation,ERP_Finance,3882.97,Normal,SoD Violation
+2026-09-02 14:45:00,EMP_016,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-21 12:05:00,EMP_014,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-27 08:22:00,EMP_010,HR,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-02 17:51:00,EMP_010,HR,invoice_creation,IT_Admin_Console,4829.71,Normal,SoD Violation
+2026-09-01 12:17:00,EMP_004,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-14 17:30:00,EMP_013,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-02 12:20:00,EMP_006,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-20 11:11:00,EMP_017,Finance,invoice_creation,HRMS,3412.34,Normal,SoD Violation
+2026-09-21 11:42:00,EMP_009,Finance,invoice_creation,HRMS,650.15,Normal,SoD Violation
+2026-09-15 10:23:00,EMP_015,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-28 17:59:00,EMP_011,Procurement,invoice_creation,IT_Admin_Console,1452.11,Normal,SoD Violation
+2026-09-05 08:36:00,EMP_018,IT,payment_approval,ERP_Finance,2938.16,Normal,Access Violation
+2026-09-17 15:06:00,EMP_008,IT,invoice_creation,IT_Admin_Console,2927.91,Normal,SoD Violation
+2026-09-26 09:48:00,EMP_007,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-07 15:00:00,EMP_010,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-21 10:22:00,EMP_012,IT,invoice_creation,HRMS,1037.26,Normal,SoD Violation
+2026-09-17 13:53:00,EMP_005,Finance,payment_approval,HRMS,2270.46,Normal,SoD Violation
+2026-09-07 13:43:00,EMP_014,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-27 09:00:00,EMP_005,Finance,payment_approval,HRMS,1895.37,Normal,SoD Violation
+2026-09-20 10:25:00,EMP_014,IT,invoice_creation,IT_Admin_Console,1517.31,Normal,SoD Violation
+2026-09-07 15:03:00,EMP_007,Procurement,invoice_creation,IT_Admin_Console,1067.15,Normal,SoD Violation
+2026-09-03 08:14:00,EMP_003,HR,invoice_creation,HRMS,2614.91,Normal,SoD Violation
+2026-09-20 15:51:00,EMP_007,Procurement,invoice_creation,IT_Admin_Console,4554.96,Normal,SoD Violation
+2026-09-16 12:16:00,EMP_004,IT,invoice_creation,ERP_Finance,3933.53,Normal,SoD Violation
+2026-09-22 14:03:00,EMP_018,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-01 15:29:00,EMP_001,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-26 16:16:00,EMP_001,Finance,invoice_creation,ERP_Finance,117.77,Normal,SoD Violation
+2026-09-21 14:50:00,EMP_005,Finance,invoice_creation,IT_Admin_Console,2103.94,Normal,SoD Violation
+2026-09-19 13:14:00,EMP_019,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-22 16:27:00,EMP_017,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-18 13:28:00,EMP_008,IT,payment_approval,ERP_Finance,2654.89,Normal,Access Violation
+2026-09-15 11:13:00,EMP_020,IT,login,HRMS,0.0,Normal,Clear
+2026-09-19 14:32:00,EMP_014,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-18 09:57:00,EMP_008,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-18 15:18:00,EMP_011,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-11 08:21:00,EMP_013,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-21 15:17:00,EMP_016,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-04 09:35:00,EMP_016,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-24 09:57:00,EMP_002,Finance,payment_approval,IT_Admin_Console,3483.06,Normal,SoD Violation
+2026-09-23 10:32:00,EMP_003,HR,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-24 13:38:00,EMP_014,IT,payment_approval,HRMS,1655.56,Normal,Access Violation
+2026-09-16 17:07:00,EMP_015,IT,payment_approval,HRMS,4096.66,Normal,Access Violation
+2026-09-06 09:44:00,EMP_018,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-13 13:59:00,EMP_009,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-16 10:41:00,EMP_009,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-07 14:56:00,EMP_017,Finance,invoice_creation,HRMS,1919.56,Normal,SoD Violation
+2026-09-02 09:53:00,EMP_018,IT,invoice_creation,HRMS,1499.82,Normal,SoD Violation
+2026-09-28 16:03:00,EMP_009,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-26 17:13:00,EMP_008,IT,payment_approval,HRMS,1200.04,Normal,Access Violation
+2026-09-11 16:48:00,EMP_017,Finance,view_record,HRMS,0.0,Normal,Clear
+2026-09-06 15:06:00,EMP_006,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-02 16:46:00,EMP_014,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-15 12:20:00,EMP_010,HR,payment_approval,IT_Admin_Console,3696.4,Normal,SoD Violation
+2026-09-20 08:32:00,EMP_009,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-04 11:14:00,EMP_008,IT,payment_approval,IT_Admin_Console,1658.77,Normal,Access Violation
+2026-09-11 11:54:00,EMP_016,HR,invoice_creation,IT_Admin_Console,4802.96,Normal,SoD Violation
+2026-09-26 17:17:00,EMP_005,Finance,invoice_creation,HRMS,1295.77,Normal,SoD Violation
+2026-09-19 16:47:00,EMP_006,Procurement,invoice_creation,IT_Admin_Console,4447.78,Normal,SoD Violation
+2026-09-04 15:27:00,EMP_006,Procurement,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-01 09:25:00,EMP_012,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-10 13:23:00,EMP_010,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-08 14:32:00,EMP_020,IT,payment_approval,IT_Admin_Console,2555.48,Normal,Access Violation
+2026-09-12 09:23:00,EMP_003,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-21 17:22:00,EMP_007,Procurement,payment_approval,ERP_Finance,4095.79,Normal,SoD Violation
+2026-09-20 12:22:00,EMP_007,Procurement,invoice_creation,IT_Admin_Console,4279.08,Normal,SoD Violation
+2026-09-02 08:22:00,EMP_003,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-03 16:33:00,EMP_005,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-23 08:15:00,EMP_005,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-14 11:17:00,EMP_018,IT,invoice_creation,ERP_Finance,4228.74,Normal,SoD Violation
+2026-09-07 13:13:00,EMP_012,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-21 13:08:00,EMP_020,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-01 12:11:00,EMP_006,Procurement,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-07 16:31:00,EMP_010,HR,payment_approval,HRMS,480.29,Normal,SoD Violation
+2026-09-07 13:33:00,EMP_014,IT,payment_approval,HRMS,628.98,Normal,Access Violation
+2026-09-26 14:52:00,EMP_004,IT,payment_approval,HRMS,4160.27,Normal,Access Violation
+2026-09-16 12:20:00,EMP_005,Finance,invoice_creation,IT_Admin_Console,4681.55,Normal,SoD Violation
+2026-09-01 15:10:00,EMP_006,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-24 16:13:00,EMP_019,IT,payment_approval,HRMS,1923.13,Normal,Access Violation
+2026-09-09 10:23:00,EMP_005,Finance,invoice_creation,IT_Admin_Console,2896.87,Normal,SoD Violation
+2026-09-16 16:22:00,EMP_020,IT,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-08 08:18:00,EMP_002,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-10 10:22:00,EMP_008,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-16 13:39:00,EMP_016,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-13 15:06:00,EMP_003,HR,data_export,ERP_Finance,0.0,Normal,Access Violation
+2026-09-02 17:02:00,EMP_017,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-21 11:25:00,EMP_002,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-11 13:35:00,EMP_019,IT,payment_approval,ERP_Finance,562.77,Normal,Access Violation
+2026-09-27 11:58:00,EMP_004,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-04 09:05:00,EMP_005,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-19 08:15:00,EMP_003,HR,invoice_creation,HRMS,4993.11,Normal,SoD Violation
+2026-09-14 11:30:00,EMP_020,IT,data_export,HRMS,0.0,Normal,Clear
+2026-09-14 11:22:00,EMP_005,Finance,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-27 12:49:00,EMP_010,HR,invoice_creation,IT_Admin_Console,50000.0,SoD_Conflict,SoD Violation
+2026-09-14 12:23:00,EMP_010,HR,payment_approval,IT_Admin_Console,50000.0,SoD_Conflict,SoD Violation
+2026-09-21 12:32:00,EMP_016,HR,view_record,ERP_Finance,0.0,Normal,Access Violation
+2026-09-20 13:39:00,EMP_010,HR,invoice_creation,HRMS,3177.34,Normal,SoD Violation
+2026-09-13 15:12:00,EMP_009,Finance,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-22 17:46:00,EMP_008,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-03 10:53:00,EMP_016,HR,data_export,HRMS,0.0,Normal,Clear
+2026-09-16 10:30:00,EMP_007,Procurement,invoice_creation,HRMS,2555.7,Normal,SoD Violation
+2026-09-28 13:10:00,EMP_011,Procurement,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-07 17:16:00,EMP_001,Finance,invoice_creation,HRMS,3486.63,Normal,SoD Violation
+2026-09-16 12:48:00,EMP_017,Finance,payment_approval,IT_Admin_Console,3164.48,Normal,SoD Violation
+2026-09-23 15:53:00,EMP_003,HR,payment_approval,ERP_Finance,3787.95,Normal,Access Violation
+2026-09-25 12:30:00,EMP_015,IT,login,HRMS,0.0,Normal,Clear
+2026-09-02 17:09:00,EMP_007,Procurement,invoice_creation,IT_Admin_Console,4913.6,Normal,SoD Violation
+2026-09-10 11:53:00,EMP_007,Procurement,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-23 13:35:00,EMP_015,IT,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 12:59:00,EMP_018,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-09 12:59:00,EMP_005,Finance,login,ERP_Finance,0.0,Normal,Clear
+2026-09-06 13:32:00,EMP_014,IT,invoice_creation,HRMS,1879.21,Normal,SoD Violation
+2026-09-22 16:55:00,EMP_017,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-08 08:43:00,EMP_006,Procurement,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-07 12:34:00,EMP_013,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-19 12:31:00,EMP_005,Finance,login,HRMS,0.0,Normal,Clear
+2026-09-02 13:45:00,EMP_006,Procurement,payment_approval,ERP_Finance,1901.12,Normal,SoD Violation
+2026-09-19 10:49:00,EMP_016,HR,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-07 08:22:00,EMP_018,IT,invoice_creation,ERP_Finance,380.4,Normal,SoD Violation
+2026-09-19 12:39:00,EMP_004,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-25 12:20:00,EMP_005,Finance,data_export,HRMS,0.0,Normal,Clear
+2026-09-27 12:46:00,EMP_019,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-19 08:57:00,EMP_005,Finance,view_record,ERP_Finance,0.0,Normal,Clear
+2026-09-06 02:00:00,EMP_004,Finance,payment_approval,ERP_Finance,0.0,Time_Anomaly,Time Anomaly
+2026-09-22 11:29:00,EMP_008,IT,login,HRMS,0.0,Normal,Clear
+2026-09-20 11:34:00,EMP_020,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-07 11:04:00,EMP_007,Procurement,login,HRMS,0.0,Normal,Clear
+2026-09-26 17:51:00,EMP_018,IT,invoice_creation,ERP_Finance,4797.44,Normal,SoD Violation
+2026-09-26 16:39:00,EMP_008,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-16 12:31:00,EMP_004,IT,invoice_creation,HRMS,4794.13,Normal,SoD Violation
+2026-09-24 08:01:00,EMP_019,IT,data_export,ERP_Finance,0.0,Normal,Clear
+2026-09-03 10:15:00,EMP_001,Finance,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-11 17:10:00,EMP_014,IT,view_record,HRMS,0.0,Normal,Clear
+2026-09-01 10:44:00,EMP_003,Finance,data_export,ERP_Finance,0.0,Data_Exfiltration,Clear
+2026-09-24 14:46:00,EMP_015,IT,login,IT_Admin_Console,0.0,Normal,Clear
+2026-09-13 13:03:00,EMP_013,Procurement,invoice_creation,ERP_Finance,3961.68,Normal,SoD Violation
+2026-09-23 14:01:00,EMP_015,IT,login,HRMS,0.0,Normal,Clear
+2026-09-28 16:12:00,EMP_019,IT,view_record,IT_Admin_Console,0.0,Normal,Clear
+2026-09-10 12:29:00,EMP_007,Procurement,view_record,HRMS,0.0,Normal,Clear
+2026-09-20 10:03:00,EMP_014,IT,invoice_creation,IT_Admin_Console,1507.59,Normal,SoD Violation
+2026-09-04 08:27:00,EMP_017,Finance,data_export,IT_Admin_Console,0.0,Normal,Clear
+2026-09-05 11:18:00,EMP_018,IT,login,ERP_Finance,0.0,Normal,Clear
+2026-09-28 12:29:00,EMP_002,Finance,data_export,ERP_Finance,0.0,Normal,Clear
